@@ -1,3 +1,4 @@
 # apnacollege_demo
-first code
-Author:samiksha jeurgi
+first code of mine in github
+<br>
+Author: samiksha jeurgi
